@@ -10,10 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "anymatch": "^3.1.1",
-    "chokidar": "^3.3.1",
-    "cpx": "^1.5.0",
-    "micromatch": "^4.0.2",
-    "minimist": "^1.2.2"
+    "minimist": "^1.2.0",
+    "cpx": "^1.5.0"
   }
 }
